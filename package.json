@@ -1,0 +1,30 @@
+{
+  "name": "criptonauta2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Criptocrata/criptonauta2.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Criptocrata/criptonauta2/issues"
+  },
+  "homepage": "https://github.com/Criptocrata/criptonauta2#readme",
+  "dependencies": {
+    "next": "^15.4.5",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "tinacms": "^2.8.2"
+  },
+  "devDependencies": {
+    "@tinacms/cli": "^1.10.2",
+    "@types/node": "^24.2.0"
+  }
+}
